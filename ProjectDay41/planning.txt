@@ -1,0 +1,2 @@
+User inputs an article id
+The output is a pdf - receipt
